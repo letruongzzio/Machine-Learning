@@ -13,7 +13,7 @@ A brief introduction to how to retrieve data in Python and a quick warm-up with 
 
 Briefly present about linear regression functions (multivariate, polynomial, ridge, lasso), what is *Overfitting* and related mathematical formulas. In addition, I also present how to program to find the solution and bias of a Linear Regression function using mathematics and functions available in the Python library.
 
-+ [Linear Regression.](https://github.com/letruongzzio/Machine-Learning/blob/main/2%20-%20Linear%20Regression%20and%20Overfitting/Linear%20Regression.ipynb) and [Linear Regression using Scikit-Learn Normal.](https://github.com/letruongzzio/Machine-Learning/blob/main/2%20-%20Linear%20Regression%20and%20Overfitting/Linear%20Regression%20using%20Scikit-Learn%20Normal.ipynb)
++ [Linear Regression](https://github.com/letruongzzio/Machine-Learning/blob/main/2%20-%20Linear%20Regression%20and%20Overfitting/Linear%20Regression.ipynb) and [Linear Regression using Scikit-Learn Normal.](https://github.com/letruongzzio/Machine-Learning/blob/main/2%20-%20Linear%20Regression%20and%20Overfitting/Linear%20Regression%20using%20Scikit-Learn%20Normal.ipynb)
 + [Cost function.](https://github.com/letruongzzio/Machine-Learning/blob/main/2%20-%20Linear%20Regression%20and%20Overfitting/Cost%20Function.ipynb)
 
 ## 3 - Classification:
