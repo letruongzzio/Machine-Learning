@@ -2,6 +2,8 @@
 
 This is where I store the basic knowledge about Machine Learning that I have learned and collected in different books and courses. Below is the main content:
 
+## 1 - Introduction to Machine Learning:
+
 ## 2 - Linear Regression and Overfitting:
 
 + [Linear Regression](https://github.com/letruongzzio/Machine-Learning/blob/main/2%20-%20Linear%20Regression%20and%20Overfitting/Linear%20Regression.ipynb) and [Linear Regression using Scikit-Learn Normal.](https://github.com/letruongzzio/Machine-Learning/blob/main/2%20-%20Linear%20Regression%20and%20Overfitting/Linear%20Regression%20using%20Scikit-Learn%20Normal.ipynb)
