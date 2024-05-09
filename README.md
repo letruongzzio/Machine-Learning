@@ -2,15 +2,7 @@
 
 This is where I store the basic knowledge about Machine Learning that I have learned and collected in different books and courses. Below is the main content:
 
-## 1 - Introduction to Machine Learning:
-
-## 2 - Linear Regression and Overfitting:
-
-## 3 - Overview of clustering algorithms:
-
-## 4 - Neural Networks:
-
-## 5 - Classification:
+Update....
 ___
 ## **References:**
 
