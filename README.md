@@ -6,23 +6,27 @@ This is where I store the basic knowledge about Machine Learning that I have lea
 
 An overview of Machine Learning along with practicing Python coding to store files and images. In addition, we will practice a project on predicting house prices to better understand ML and will code a bit about matrix derivatives using Numerical Analysis.
 
-+ [The Machine Learning landscape.](https://github.com/letruongzzio/Machine-Learning/blob/main/1%20-%20Introduction%20to%20Machine%20Learning/The%20Machine%20Learning%20landscape.ipynb)
-+ [Numerical_in_Matrix_Derivatives.](https://github.com/letruongzzio/Machine-Learning/blob/main/1%20-%20Introduction%20to%20Machine%20Learning/Numerical_in_Matrix_Derivatives.ipynb)
-+ [End-to-end Machine Learning project.](https://github.com/letruongzzio/Machine-Learning/blob/main/1%20-%20Introduction%20to%20Machine%20Learning/End-to-end%20Machine%20Learning%20project.ipynb)
-
 ## 2. Linear Regression and Overfitting
 
-Update later...
+Focusing on the principles and practical applications of linear regression. It introduces essential concepts such as the cost function, which is crucial for optimizing the model's performance by minimizing the error between predicted and actual values. The chapter also addresses the issue of overfitting, where a model learns too much from the training data, resulting in poor generalization to new data. Supporting Python scripts and utilities facilitate hands-on exercises with both univariate and multivariate datasets, while the provided data files enable practical implementation of linear regression techniques using popular libraries like SciPy and Scikit-learn. Overall, this chapter combines theoretical insights with practical coding exercises to enhance understanding of linear regression and its challenges.
 
 ## 3. Overview of clustering algorithms
 
-Update later...
+This chapter provides an overview of various clustering algorithms, focusing on the K-means clustering algorithm and its applications. It covers essential concepts, such as how to prepare data for clustering, and includes practical implementations using Jupyter notebooks, particularly for K-means clustering and K-Nearest Neighbors algorithms. The chapter emphasizes the importance of clustering in unsupervised learning, showcasing various methods to evaluate clustering performance and visualizing the clustering process.
 
 ## 4. Classification
 
 Update later...
 
 ## 5. Neural Networks
+
+Introducing the fundamentals of neural networks, covering key topics such as gradient descent, logistic regression, and the perceptron learning algorithm. It highlights the architecture of neural networks and how they learn from data. Practical examples are provided in Jupyter notebooks, focusing on the softmax regression technique, backpropagation, and various types of neural networks. The chapter serves as a comprehensive guide to understanding the principles and applications of neural networks in machine learning.
+
+## 6. Recommendation Systems
+
+Update later...
+
+## 7. Dimensionality Reduction
 
 Update later...
 ___
@@ -34,3 +38,5 @@ $[1].$ Vũ Hữu Tiệp. (2018). _Machine Learning cơ bản_. Nhà xuất bản
 $[2].$ Géron, A. (2023). *Hands-On Machine Learning with SciKit-Learn*, Keras & TensorFlow (3rd ed.). O’Reilly Media.
 
 $[3].$ DeepLearning.AI, Andrew Ng. _Machine Learning Specialization_.
+
+$[4].$ Deisenroth, M.P., Faisal, A.A., and Ong, C.S. (2020). *Mathematics for Machine Learning*. Cambridge University Press. ISBN: 9781108470049. Available at: https://books.google.com.vn/books?id=pFjPDwAAQBAJ.
