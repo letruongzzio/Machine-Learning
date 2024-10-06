@@ -24,11 +24,11 @@ Introducing the fundamentals of neural networks, covering key topics such as gra
 
 ## 6. Recommendation Systems
 
-Update later...
+This chapter includes key files related to recommendation techniques, such as "Content-based Recommendation," "Matrix factorization on collaborative filtering," and "Neighborhood-based collaborative filtering." The chapter likely focuses on algorithms for making personalized suggestions based on user data and item similarities.
 
 ## 7. Dimensionality Reduction
 
-Update later...
+"Dimensionality Reduction," involves files like "Principal component analysis," "Singular value decomposition," and some images related to structures (e.g., "building2.jpg") and other graphics. This chapter likely covers mathematical techniques to reduce the number of variables in datasets, focusing on methods to retain important information while simplifying the data structure.
 ___
 
 ## **References:**
