@@ -109,3 +109,4 @@ def compute_gradient(X, y, w, b):
     dj_db = dj_db/m
 
     return dj_db,dj_dw
+
