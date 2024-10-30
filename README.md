@@ -14,21 +14,25 @@ Focusing on the principles and practical applications of linear regression. It i
 
 This chapter provides an overview of various clustering algorithms, focusing on the K-means clustering algorithm and its applications. It covers essential concepts, such as how to prepare data for clustering, and includes practical implementations using Jupyter notebooks, particularly for K-means clustering and K-Nearest Neighbors algorithms. The chapter emphasizes the importance of clustering in unsupervised learning, showcasing various methods to evaluate clustering performance and visualizing the clustering process.
 
-## 4. Classification
-
-Update later...
-
-## 5. Neural Networks
+## 4. Neural Networks
 
 Introducing the fundamentals of neural networks, covering key topics such as gradient descent, logistic regression, and the perceptron learning algorithm. It highlights the architecture of neural networks and how they learn from data. Practical examples are provided in Jupyter notebooks, focusing on the softmax regression technique, backpropagation, and various types of neural networks. The chapter serves as a comprehensive guide to understanding the principles and applications of neural networks in machine learning.
 
-## 6. Recommendation Systems
+## 5. Recommendation Systems
 
 This chapter includes key files related to recommendation techniques, such as "Content-based Recommendation," "Matrix factorization on collaborative filtering," and "Neighborhood-based collaborative filtering." The chapter likely focuses on algorithms for making personalized suggestions based on user data and item similarities.
 
-## 7. Dimensionality Reduction
+## 6. Dimensionality Reduction
 
 "Dimensionality Reduction," involves files like "Principal component analysis," "Singular value decomposition," and some images related to structures (e.g., "building2.jpg") and other graphics. This chapter likely covers mathematical techniques to reduce the number of variables in datasets, focusing on methods to retain important information while simplifying the data structure.
+
+## 7. Support Vector Machines
+
+*...Update later...*
+
+## 8. Ensemble Learning and Random Forests
+
+*...Update later...*
 ___
 
 ## **References:**

@@ -1,0 +1,1 @@
+Open Terminal and change direction to your folder containing `get_datasets.sh`, after that implementing `bash get_datasets.sh`. Eventually, you will gain `cifar-10-batches-py` folder and `imagenet_val_25.npz` file.
